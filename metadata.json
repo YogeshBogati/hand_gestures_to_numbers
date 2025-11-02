@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hand Gesture to Number Converter",
+  "description": "An interactive web application that uses your camera and the Gemini API to recognize hand gestures and convert them into numbers from 1 to 10.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
